@@ -1,0 +1,13 @@
+Coffee Chess.todo
+	- Where does the bean go when you steal? @done
+	- what i meant by finish all the beans from the game? @done
+	- how many beans do you start with? 50 @done
+	- how many actions do you have per turn? @done
+	- one type of action per turn @done
+	- beans are common resource @done
+	- squares control beans @done
+	- move beans to nearest DIAGONAL square, not adjacent square. @done
+	- 2 beans per turn @done
+	- 3 in a row gives +1 @done
+	- 5 max in inventory @done
+	- +5 max per turn @done
