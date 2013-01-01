@@ -20,9 +20,9 @@ A bordgame about coffee, made out of coffee for 2 players. A mixture of Chess, T
 	- move beans to another adjacent square (one bean must always be left behind).
 
 ## Victory conditions
-	- Finish all the beans.
-	- Finish all of your squares.
-	- Take out all enemy beans.
+- Finish all the beans.
+- Finish all of your squares.
+- Take out all enemy beans.
 	
 ### Reward
 The loser brews coffee for the winner
