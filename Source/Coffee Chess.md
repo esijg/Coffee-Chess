@@ -48,36 +48,21 @@ When the shared bean bank is finished, the player with the most beans on the boa
 The loser brews coffee for the winner. Both loser and winner are rewarded with their hands smelling of delicious coffee beans.
 
 # Example Turns
-**Player 1** gains **2 beans**, puts them out next to each other on the game board.
-
-![](/Users/JohannesG/Documents/Verkefni/Coffee Chess/Source/Images/turn1.jpg)
-
-**Player 2** gains **2 beans**, saves them.
-
-**Player 1** gains **2 beans**, puts one next to his previous beans to form a **3 in a row**. Saves the last bean.
-
-![](/Users/JohannesG/Documents/Verkefni/Coffee Chess/Source/Images/turn2.jpg)
-
-**Player 2** gains **2 beans** and now has **4 beans** in his inventory. He places out **3 in a diagonal line** close to the opponent. and puts his last one on one of his already occupied squares to make it harder to steal.
-
-![](/Users/JohannesG/Documents/Verkefni/Coffee Chess/Source/Images/turn3.jpg)
-
-**Player 1** gains **3 beans** and now has **4 beans** in his inventory. he steals 1 bean from each enemy square at the cost of **3 beans** but leaves **1 bean** in his inventory.
-
-![](/Users/JohannesG/Documents/Verkefni/Coffee Chess/Source/Images/turn4.jpg "test")
-
-**Player 2** gains **2 beans** and places them on his last remaining occupied square.
-
-**Player 1** gains **3 beans** and uses them to retreat from 3 of his squares, leaving **1 bean** in his inventory.
-
-![](/Users/JohannesG/Documents/Verkefni/Coffee Chess/Source/Images/turn5.jpg)
+1. **Player 1** gains **2 beans**, puts them out next to each other on the game board.
+2. **Player 2** gains **2 beans**, saves them.
+3. **Player 1** gains **2 beans**, puts one next to his previous beans to form a **3 in a row**. Saves the last bean.
+4. **Player 2** gains **2 beans** and now has **4 beans** in his inventory. He places out **3 in a diagonal line** close to the opponent. and puts his last one on one of his already occupied squares to make it harder to steal.
+5. **Player 1** gains **3 beans** and now has **4 beans** in his inventory. he steals 1 bean from each enemy square at the cost of **3 beans** but leaves **1 bean** in his inventory.
+6. **Player 2** gains **2 beans** and places them on his last remaining occupied square.
+7. **Player 1** gains **3 beans** and uses them to retreat from 3 of his squares, leaving **1 bean** in his inventory.
 
 # Credits
-Jóhannes Gunnar Þorsteinsson - Game Design
+Jóhannes Gunnar Þorsteinsson - Game Design  
 johannesg@johannesg.com
 
 Göran Svensson - Beta testing and invaluable feedback
 
 # Related Links
 http://www.johannesg.com
+
 http://nygj.blechi.at
